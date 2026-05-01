@@ -7,7 +7,7 @@ It serves as a digital CV showcasing projects, skills, and contact information.
 The application includes multi-page navigation, light theme switching, and persistent user preferences.
 
 ## 🚀 Demo
-https://aliangrey.github.io/food/
+https://aliangrey.github.io/freelance-portfolio-react
 
 ---
 
@@ -50,10 +50,9 @@ Implemented using `react-router-dom`.
 
 ## 📸 Preview
 
-```md id="img1"
-![Portfolio Preview](./src/img/screenshot.png)
-![Portfolio Preview](./src/img/screenshot1.png)
-```
+<img src="screenshots/screenshot.png" width="800"/>
+<img src="screenshots/screenshot1.png" width="800"/>
+
 
 ## ⚙️ Installation
 ```bash
