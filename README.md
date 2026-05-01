@@ -50,8 +50,8 @@ Implemented using `react-router-dom`.
 
 ## 📸 Preview
 
-![Portfolio Preview](screenshots/screenshot.png)
-![Portfolio Preview](screenshots/screenshot1.png)
+![Portfolio Preview](public/screenshots/screenshot.png)
+![Portfolio Preview](public/screenshots/screenshot1.png)
 
 
 ## ⚙️ Installation
