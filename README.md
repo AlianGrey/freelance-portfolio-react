@@ -50,8 +50,8 @@ Implemented using `react-router-dom`.
 
 ## 📸 Preview
 
-<img src="screenshots/screenshot.png" width="800"/>
-<img src="screenshots/screenshot1.png" width="800"/>
+![Portfolio Preview](screenshots/screenshot.png)
+![Portfolio Preview](screenshots/screenshot1.png)
 
 
 ## ⚙️ Installation
@@ -72,9 +72,9 @@ npm run build
 ```
 
 ## 📬 Contact
-GitHub: https://github.com/AlianGrey
-LinkedIn: https://www.linkedin.com/in/kostrikinaelena/
-Email: ek371117@gmail.com
+- GitHub: [AlianGrey](https://github.com/AlianGrey)
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/kostrikinaelena/)
+- Email: ek371117@gmail.com
 
 ## 📌 Notes
 
